@@ -1,39 +1,38 @@
-###Guest Management System
+### Guest Management System
 A web-based Guest Management System built using HTML, CSS, PHP, and PostgreSQL. This system allows users to manage guest information, including adding, updating, deleting, and viewing guest records.
 
-###Features
-Add Guest: Add new guest details to the system.
 
-View Guests: View a list of all guests stored in the database.
+### Features
+- Add Guest: Add new guest details to the system.
 
-Update Guest: Edit and update guest information.
+- View Guests: View a list of all guests stored in the database.
 
-Delete Guest: Remove guest records from the system.
+- Update Guest: Edit and update guest information.
 
-Search Guests: Search for specific guests by name, email, or other criteria.
+- Delete Guest: Remove guest records from the system.
 
-Responsive Design: Built with responsive HTML and CSS for seamless use on different devices.
+- Search Guests: Search for specific guests by name, email, or other criteria.
 
-Technologies Used
-Frontend: HTML, CSS
-
-Backend: PHP
-
-Database: PostgreSQL
-
-Web Server: Apache
+- Responsive Design: Built with responsive HTML and CSS for seamless use on different devices.
 
 
-###Prerequisites
-Before running the project, ensure you have the following installed:
+### Technologies Used
+- Frontend: HTML, CSS
+- Backend: PHP
+- Database: PostgreSQL
+- Web Server: Apache
 
-Apache Web Server: Install Apache to serve the application.
 
-PHP: Install PHP to handle server-side logic.
+### Prerequisites
+- Before running the project, ensure you have the following installed:
 
-PostgreSQL: Install PostgreSQL as the database system.
+- Apache Web Server: Install Apache to serve the application.
 
-pgAdmin (Optional): A GUI tool for managing PostgreSQL databases.
+- PHP: Install PHP to handle server-side logic.
 
-Web Browser: To access and interact with the application.
+- PostgreSQL: Install PostgreSQL as the database system.
+
+- pgAdmin (Optional): A GUI tool for managing PostgreSQL databases.
+
+- Web Browser: To access and interact with the application.
 
